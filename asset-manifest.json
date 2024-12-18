@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/drinkselectorweb.github.io/static/css/main.1bab3bc2.css",
-    "main.js": "/drinkselectorweb.github.io/static/js/main.91c61e00.js",
+    "main.js": "/drinkselectorweb.github.io/static/js/main.212dee03.js",
     "static/js/488.377372dc.chunk.js": "/drinkselectorweb.github.io/static/js/488.377372dc.chunk.js",
     "index.html": "/drinkselectorweb.github.io/index.html",
     "main.1bab3bc2.css.map": "/drinkselectorweb.github.io/static/css/main.1bab3bc2.css.map",
-    "main.91c61e00.js.map": "/drinkselectorweb.github.io/static/js/main.91c61e00.js.map",
+    "main.212dee03.js.map": "/drinkselectorweb.github.io/static/js/main.212dee03.js.map",
     "488.377372dc.chunk.js.map": "/drinkselectorweb.github.io/static/js/488.377372dc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1bab3bc2.css",
-    "static/js/main.91c61e00.js"
+    "static/js/main.212dee03.js"
   ]
 }
